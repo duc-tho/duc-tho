@@ -16,8 +16,5 @@
 <hr/>
 
 <div align="center">
-  <div style="display: flex;">
-    <img align="left" align="top" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ei3isaki&layout=compact" />
-    <img align="right" align="top" height="195px" src="https://github-readme-stats.vercel.app/api?username=3ei3isaki&show_icons=true&theme=buefy" />
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=3ei3isaki&show_icons=true&theme=buefy" />
 </div>
