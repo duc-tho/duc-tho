@@ -11,6 +11,7 @@
 	<img src="https://img.shields.io/badge/Language-CSS-2ea44f?logo=css3"/>
 	<img src="https://img.shields.io/badge/Language-PHP-2ea44f?logo=php"/>
 	<img src="https://img.shields.io/badge/Framework-Bootstrap-efa864?logo=bootstrap"/>
+	<img src="https://img.shields.io/badge/Framework-Laravel-efa864?logo=laravel" />
 </p>
 
 <hr/>
