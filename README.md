@@ -17,5 +17,5 @@
 <hr/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=3ei3isaki&show_icons=true&theme=buefy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=duc-tho&show_icons=true&theme=buefy" />
 </div>
