@@ -1,7 +1,10 @@
 <h3 align="center">Hello there! My name is Đức Thọ <img src="https://i.imgur.com/5MC7A5V.jpg" width="50px"></h3>
-<h4 align="center">I’m currently student! Learning to become a Coder, a Web Developer</h4>
-
-![Cover Photo](https://coverfiles.alphacoders.com/507/50702.jpg)
+<h4 align="center">I’m currently intern at </h4>
+<div align="center">
+	<img src="https://www.netpower.vn/wp-content/uploads/2017/07/Netpower-mobile.png" width="150px">
+</div>
+	
+![Cover Photo](https://images8.alphacoders.com/295/295649.jpg)
 
 <p align="center">
   	<img src="https://img.shields.io/badge/OS-Windows-9cf?logo=windows"/>
