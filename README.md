@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&size=30&center=true&vCenter=true&height=30&lines=Hi+there!+;9+2+meet+u!+%3AD;I'm+%C4%90%E1%BB%A9c+Th%E1%BB%8D+%3A3">
     <img src="https://i.imgur.com/5MC7A5V.jpg" width="50px">
 </h1>
-<h4 align="center">I’m currently intern at </h4>
+<h4 align="center">I’m currently working at </h4>
 <div align="center">
 	<img src="https://www.netpower.vn/wp-content/uploads/2017/07/Netpower-mobile.png" width="150px">
 </div>
