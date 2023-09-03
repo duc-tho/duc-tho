@@ -1,44 +1,62 @@
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&size=30&center=true&vCenter=true&height=30&lines=Hi+there!+;9+2+meet+u!+%3AD;I'm+%C4%90%E1%BB%A9c+Th%E1%BB%8D+%3A3">
-    <img src="https://i.imgur.com/5MC7A5V.jpg" width="50px">
-</h1>
-<h4 align="center">I’m currently working at </h4>
-<div align="center">
-	<img src="https://www.netpower.vn/wp-content/uploads/2017/07/Netpower-mobile.png" width="150px">
+<div>
+    <img alt="Welcome icon" src="https://emoji.discadia.com/emojis/40b15752-393d-475e-87e5-3654e91a538a.GIF" width="50px" />
+    &nbsp;
+    <img alt="Welcome text" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&size=30&vCenter=true&width=300&height=30&lines=Hello!+;Nice+to+meet+you!;I'm+%C4%90%E1%BB%A9c+Th%E1%BB%8D." />
 </div>
-	
-![Cover Photo](https://images8.alphacoders.com/295/295649.jpg)
+<img alt="Cover image" src="https://media.tenor.com/jLBoL_qDaVQAAAAd/lennsan.gif" />
 
-<p align="center">
-  	<img src="https://img.shields.io/badge/OS-Windows-9cf?logo=windows"/>
-	<img src="https://img.shields.io/badge/OS-Ubuntu-9cf?logo=ubuntu"/>
-	<img src="https://img.shields.io/badge/Tool-Visual Studio Code-8f72db?logo=visual-studio-code"/>
-</p>
 
-<p align="center">
-	<img src="https://img.shields.io/badge/Language-JavaScript-2ea44f?logo=javascript"/>
-	<img src="https://img.shields.io/badge/Language-TypeScript-2ea44f?logo=typescript"/>
-	<img src="https://img.shields.io/badge/Language-HTML5-2ea44f?logo=html5"/>
-	<img src="https://img.shields.io/badge/Language-CSS3-2ea44f?logo=css3"/>
-	<img src="https://img.shields.io/badge/Language-SASS-2ea44f?logo=scss"/>
-	<img src="https://img.shields.io/badge/Language-PHP-2ea44f?logo=php"/>
-</p>
+Hi there 👋,
 
-<p align="center">
-	<img src="https://img.shields.io/badge/Framework-Bootstrap-efa864?logo=bootstrap"/>
-	<img src="https://img.shields.io/badge/Framework-Laravel-efa864?logo=laravel" />
-	<img src="https://img.shields.io/badge/Framework-Symfony-efa864?logo=symfony" />
-	<img src="https://img.shields.io/badge/Framework-React-efa864?logo=react" />
-	<img src="https://img.shields.io/badge/Database-Mysql-efa864?logo=mysql" />
-</p>
+I'm Tho, a full stack web developer with 1 year of working with Symfony, React.
 
-<hr/>
-<div align=center>
-      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=duc-tho&theme=react&border=61dafb&hide_border=true" />
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=duc-tho&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ductho&theme=react-dark&bg_color=20232a&hide_border=true" />
-</div>
+<br />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ductho305) 
+[![Github](https://img.shields.io/badge/Github-%23444C56.svg?logo=github&logoColor=white)](https://github.com/duc-tho)
+
+- 🔭 I'm looking for a job related to PHP, React.
+- 📫 [thopk007113@gmail.com](mailto:thopk007113@gmail.com)
+
+## 💻 Tech Stack:
+
+### Mainly working with:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### Also have experience with:
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+<img alt="Number of visitors" src="https://visitcount.itsvg.in/api?id=duc-tho&icon=0&color=0" />
